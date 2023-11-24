@@ -1,0 +1,11 @@
+Model Information:
+* title:	Titanic Wreck 1912 (Prisma3d)
+* source:	https://sketchfab.com/3d-models/titanic-wreck-1912-prisma3d-de6599a8935245b18cf834447147eb80
+* author:	Alambrito Delgado B] (https://sketchfab.com/alambritodelgado2034)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Titanic Wreck 1912 (Prisma3d)" (https://sketchfab.com/3d-models/titanic-wreck-1912-prisma3d-de6599a8935245b18cf834447147eb80) by Alambrito Delgado B] (https://sketchfab.com/alambritodelgado2034) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
